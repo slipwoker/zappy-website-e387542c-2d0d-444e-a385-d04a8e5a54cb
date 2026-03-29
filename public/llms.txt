@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Escape to your dream destination with ADEL Travel — your boutique travel partner for last minute hotel reservations, curated itineraries, and unforgettable journeys. Start planning today!
+
+### Services
+https://example.com/services
+From google flight tickets to luxury hotel stays, ADEL Travel crafts every detail of your trip with precision and care. Discover premium, personalized travel services built around you.
+
+### About
+https://example.com/about
+ADEL Travel was built on trust, warmth, and meticulous attention to detail. Learn how our boutique approach transforms every journey into a deeply personal, premium travel experience.
+
+### Contact
+https://example.com/contact
+Ready to book last minute hotel reservations or find the best travel deals? Connect with ADEL Travel directly on WhatsApp for fast, friendly, and hands-on travel planning support.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
